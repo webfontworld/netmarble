@@ -5,6 +5,7 @@
     <img src="https://webfontworld.github.io/netmarble/Netmarble.jpg" alt="SeoulNamsan" style="width:300px">
 </a>
 
+<pre>
 @font-face {
     font-family: 'Netmarble';
     font-weight: 300;
@@ -38,3 +39,4 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/netmarble/NetmarbleBold.ttf') format("truetype");
     font-display: swap;
 }
+</pre>
