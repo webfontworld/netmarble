@@ -2,7 +2,7 @@
 
 
 <a href="https://wess.tistory.com/257" target="_blank">
-    <img src="https://webfontworld.github.io/netmarble/Netmarble.jpg" alt="SeoulNamsan" style="width:300px">
+    <img src="https://webfontworld.github.io/netmarble/Netmarble.png" alt="SeoulNamsan" style="width:300px">
 </a>
 
 <pre>
